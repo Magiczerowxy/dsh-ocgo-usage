@@ -1,0 +1,6 @@
+# dsh-ocgo-usage bundle patch: inserts the dual-face plugin row into the web
+# profile roster. For a local package, add the same row to the profile's user
+# patch layer (~/.dsh/profiles/web/cordis.patch.yml).
+- insert:
+    - id: ocgo-usage
+      name: '@magiczerowxy/dsh-ocgo-usage'
