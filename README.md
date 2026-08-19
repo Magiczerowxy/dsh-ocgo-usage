@@ -10,6 +10,12 @@ An OpenCode Go subscription quota widget for the DeepSeek Harness web GUI: a flo
 | --- | --- | --- |
 | ![large](screenshots/window-large.png) | ![bar](screenshots/window-bar.png) | ![small](screenshots/window-small.png) |
 
+## 多 Key 效果 Multi-key
+
+| 填写多个 Key | 用量多 Key 显示与快捷切换 |
+| --- | --- |
+| ![填写Key](screenshots/multi-key-fill.png) | ![多Key切换](screenshots/multi-key-usage.png) |
+
 ## 功能 Features
 
 - **三种窗口形态**：大窗口（完整信息）、长条窗口（精简横条）、小窗口（紧凑胶囊），点击切换
