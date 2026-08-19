@@ -1,7 +1,7 @@
 {
   "name": "@magiczerowxy/dsh-ocgo-usage",
   "description": "OpenCode Go subscription quota widget for the dsh web GUI: a floating window showing rolling/weekly/monthly usage with progress bars, refreshed every 5 minutes.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
