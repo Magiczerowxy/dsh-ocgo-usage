@@ -3,3 +3,5 @@ node_modules/
 *.log
 _dsh_ui_tmp/
 .DS_Store
+*.bak
+*.bak-*
